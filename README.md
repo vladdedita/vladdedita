@@ -35,7 +35,14 @@ Here are a few things I’ve been writing about lately:
 
 ---
 
+## 🎓 Certifications
+
+[![Spring](https://img.shields.io/badge/Spring%20Certified-2023-6DB33F?style=flat&logo=spring)](https://www.credly.com/badges/9c34de76-1c33-4c1a-bce8-0ad1e3612c6d/linked_in_profile)
+[![Java 11](https://img.shields.io/badge/Java%20SE%2011%20OCP-Certified-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.credly.com/badges/130e05bf-929c-4f97-b6f4-0d582cb8ec43?source=linked_in_profile)
+
+---
+
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/vladdedita](https://linkedin.com/in/vladdedita)
+- LinkedIn: [linkedin.com/in/vladdedita](https://www.linkedin.com/in/vlad-vasile-dediță-a814a113b)
 - Email: [vlad.dedita@gmail.com](mailto:vlad.dedita@gmail.com)
