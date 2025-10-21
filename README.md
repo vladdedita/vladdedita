@@ -10,7 +10,7 @@ Helping developers and teams understand their systems through automated, real-ti
 
 ## ✍️ Latest Articles
 
-### 📰 Java Advent
+### 🎄 Java Advent
 
 - [⚙️ Leveraging JUnit5 Extensions for Greater Flexibility](https://www.javaadvent.com/2024/12/leveraging-junit5-extensions-for-greater-flexibility.html)
 - [🔍 5 Years in Spring, Yet Certification Taught Me This](https://www.javaadvent.com/2023/12/5-years-in-spring-yet-certification-taught-me-this.html)
