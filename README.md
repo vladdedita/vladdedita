@@ -47,5 +47,5 @@ Here are a few things I’ve been writing about lately:
 
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/vladdedita](https://www.linkedin.com/in/vlad-vasile-dediță-a814a113b)
+- LinkedIn: [linkedin.com/in/vladdedita](https://www.linkedin.com/in/vladdedita/)
 - Email: [vlad.dedita@gmail.com](mailto:vlad.dedita@gmail.com)
