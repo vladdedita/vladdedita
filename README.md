@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vlad Dedita
 
-# I'm a software consultant, product builder, and full-stack developer. I specialize in building scalable web applications using Java, Spring Boot, and React.
+I'm a software consultant, product builder, and full-stack developer. I specialize in building scalable web applications using Java, Spring Boot, and React.
 
 ## 🚧 Currently Building
 
