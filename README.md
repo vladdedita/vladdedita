@@ -2,8 +2,6 @@
 
 ## I'm a software consultant, product builder, and full-stack developer. I specialize in building scalable web applications using Java, Spring Boot, and React.
 
----
-
 ## 🚧 Currently Building
 
 ### 🧠 [VizOps](https://vizops.io) – A compile-time architecture visualization tool
@@ -32,14 +30,13 @@ Here are a few things I’ve been writing about lately:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default) -->
 
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/vladdedita](https://linkedin.com/in/vladdedita)
-- Website: [yourblog.com](https://yourblog.com)
 - Email: [your@email.com](mailto:vlad.dedita@gmail.com)
