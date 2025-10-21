@@ -10,13 +10,17 @@ Helping developers and teams understand their systems through automated, real-ti
 
 ## ✍️ Latest Articles
 
-Here are a few things I’ve been writing about lately:
+### 📰 Java Advent
 
 - [⚙️ Leveraging JUnit5 Extensions for Greater Flexibility](https://www.javaadvent.com/2024/12/leveraging-junit5-extensions-for-greater-flexibility.html)
 - [🔍 5 Years in Spring, Yet Certification Taught Me This](https://www.javaadvent.com/2023/12/5-years-in-spring-yet-certification-taught-me-this.html)
+
+### ✍️ Medium
+
 - [🧠 Understanding Java Stream API: Collectors.toList() vs Stream::toList](https://medium.com/@vlad.dedita/understanding-java-stream-api-collectors-tolist-vs-stream-tolist-4b9731604fd8)
 - [⏳ My Java Date Handling Will Never Be The Same](https://medium.com/@vlad.dedita/my-java-date-handling-will-never-be-the-same-193ad5869c6d)
-  > 👉 See all posts on [medium](https://medium.com/@vlad.dedita)
+
+> 👉 See all posts on [Medium](https://medium.com/@vlad.dedita)
 
 ---
 
