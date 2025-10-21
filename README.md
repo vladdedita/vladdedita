@@ -38,4 +38,4 @@ Here are a few things I’ve been writing about lately:
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/vladdedita](https://linkedin.com/in/vladdedita)
-- Email: [your@email.com](mailto:vlad.dedita@gmail.com)
+- Email: [vlad.dedita@gmail.com](mailto:vlad.dedita@gmail.com)
